@@ -11,6 +11,8 @@
                  cin>>matrix[i][j]; 
 }
 
+
+
      void Matrix::PrintMatrix(int rows,int cols,float matrix[][MAX_COL])   
      {
              cout<<setw(12)<<"Result:"<<endl;
